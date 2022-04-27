@@ -51,7 +51,7 @@ public class Amc extends Theater implements MovieService {
             }
 
         }
-        System.out.println("MOVIE NOT AVAILABLE");
+        System.out.println("MOVIE NOT YET AVAILABLE");
     }
 
     @Override
